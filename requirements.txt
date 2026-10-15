@@ -1,0 +1,3 @@
+# Opcional: com o Playwright o passo de navegação usa um Chromium de verdade.
+# Sem ele (ou sem o navegador baixado), o robô usa o Microsoft Edge em modo headless e registra isso no log.
+playwright>=1.40
